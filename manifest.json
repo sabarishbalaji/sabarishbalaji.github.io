@@ -1,7 +1,7 @@
 {
   "name": "Kavin Kumar ",
   "short_name": "Kavin",
-  "display": "minimal-ui",
+  "display": "standalone",
   "start_url": "/",
   "theme_color": "#673ab6",
   "background_color": "#111111",
